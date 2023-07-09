@@ -264,4 +264,3 @@ const randomProgrammingJoke = () => {
   jokeGoesHere.innerHTML = `<span style="color: red; font-size:larger;">" </span>${programmingJokes[randomIndex]}<span style="color: red; font-size:larger;"> "</span>`;
 };
 
-const nextJokeButton = document.getElementById("btnNextJoke");
